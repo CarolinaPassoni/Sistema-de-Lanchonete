@@ -1,7 +1,7 @@
-Sistema de Cadastro de Produtos e Pedido do Cliente
-🏷 Nome do Projeto
+Sistema de Lanchonete
 
-Cadastro de Produtos e Pedido do Cliente em C#
+
+
 
 📌 Descrição
 
